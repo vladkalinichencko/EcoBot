@@ -1,0 +1,37 @@
+<title>
+<head>
+В память о роботе, который мог изменить мир!
+</head>
+</title>
+<body bgcolor=black text=white>
+
+<table align=center border=0>
+
+<tr>
+<td colspan=4 align=center> <img src="экобот.png" width=384 height=50> </td>
+</tr>
+
+<tr>
+
+<td width=33% align=right> 
+<h6> <a href="материалы.html"> 3D-анимация </a> </h6> 
+</td>
+
+<td align=center> 
+<h6> <a href="ecobot 2.pptx"> презентация </a> </h6> 
+</td>
+
+<td width=33%> 
+<h6> <a href="Калиниченко Владислав.jpg"> баннер </a> </h6> 
+</td>
+
+</tr>
+
+</table>
+
+<center> 
+<img src="Калиниченко Владислав.jpg" wight=284 height=216>
+</center>  
+<br>
+
+</body>

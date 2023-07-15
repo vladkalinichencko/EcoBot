@@ -1,0 +1,67 @@
+<head>
+<link rel="stylesheet" href="CSS.css" type="text/css" />
+<title>
+В память о роботе, который мог изменить мир!
+</title>
+</head>
+<body>
+
+<table align=center border=0>
+
+<tr>
+<td colspan=4 align=center> <img src="экобот.png" width=384 height=50> </td>
+</tr>
+
+<tr>
+
+<td width=25% align=right> 
+<h3> <a href="novoe2.html"> 3D-анимация </a> </h3> 
+</td>
+
+<td wight=25% align=center> 
+<h3> <a href="ecobot 2.pptx"> презентация </a> </h3> 
+</td>
+
+<td width=25% align=center> 
+<h3> <a href="novoe3.html"> баннер </a> </h3> 
+</td>
+
+<td width=25% align=left> 
+<h3> <a href="Yjdsq ghjtrn.html"> обзор </a> </h3> 
+</td>
+
+</tr>
+
+</table>
+
+<center> <h1 align="right"> 
+25 января 2019 года в самолёте <i> S7 Airlines </i> расплавилось 
+Величайшее Изобретение Человечества (ВИЧ) - робот <i> ЭкоБот </i>.
+Эта умная машина могла собирать и сортировать мусор и, 
+возможно, когда-нибудь могла бы очистить этот, теперь уже 
+не совсем голубой (из-за мусора), шарик.
+</h1> 
+</center>  
+<br>
+
+<center> 
+<img src="1.jpg" width=192 height=108> 
+</center> 
+<br>
+
+<center> 
+<img src="2.jpg" width=192 height=108> 
+</center>
+
+<center> 
+<h2> Регистрация: </h2>
+<form>
+<p> <h3> Введите имя: </h3> <input> </p>
+<p> <h3> Введите фамилию: </h3> <input> </p>
+<p> <h3> Вы умный человек? </h3> <input type="radio"> Да, конечно! </p>
+<p> <input type="radio"> Эммм... </p>
+<p> <h3> Введите номер карты: </h3> <input> </p>
+<input type="submit" value="А теперь нажми сюда!">
+</form>
+</center> 
+</body>
